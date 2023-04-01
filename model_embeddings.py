@@ -29,7 +29,6 @@ class ModelEmbeddings(nn.Module):
         tgt_pad_token_idx = vocab.tgt['<pad>']
 
         # YOUR CODE HERE
-        # TODO - Initialize the following variables:
         # self.source (Embedding Layer for source language)
         # self.target (Embedding Layer for target langauge)
         ###
@@ -46,4 +45,8 @@ class ModelEmbeddings(nn.Module):
         # Embedding Layer:
         # https://pytorch.org/docs/stable/nn.html#torch.nn.Embedding
 
+        self.source = nn.Embedding(num_embeddings=len(vocab.src), embedding_dim=self.embed_size,
+                                   padding_idx=src_pad_token_idx)
+        self.target = nn.Embedding(num_embeddings=len(vocab.tgt), embedding_dim=self.embed_size,
+                                   padding_idx=tgt_pad_token_idx)
         # END YOUR CODE
