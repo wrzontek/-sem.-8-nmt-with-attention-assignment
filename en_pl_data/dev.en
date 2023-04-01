@@ -1,0 +1,1000 @@
+them comes from this cell. 
+And two of them comes from this cell. 
+"So that makes sense, relative to the "
+intuition I just gave you. 
+So let's just fill out this box. 
+Let's just fill out the box. 
+This is going to be one plus two is three as well. 
+Let's fill out-- let me switch colors just to make it 
+interesting. 
+This is one plus three is four. 
+Three plus three is six. 
+Three plus one is four. 
+And you can kind of see a symmetry along this diagonal. 
+Right? 
+There's a three and a three. 
+A four and a four. 
+"And if you've seen the videos on the binomia coefficients, "
+"or Pascal's triangle, you should hopefully start seeing "
+"a pattern, or some recognizable numbers here. "
+So what's this? 
+This is five. 
+And this square has all sorts of neat things here. 
+You have all ones. 
+"And you have one, two, three, four, five, six. "
+"Well, six right? "
+One plus five. 
+"Let's see, four, five, six. "
+Six plus four is 10. 
+Six plus four is 10. 
+10 plus five is 15. 
+15 plus six is 21. 
+10 plus 10 is 20. 
+10 plus five is 15. 
+21. 
+"See, this is 35. "
+35. 
+70. 
+35 plus 21 is 56. 
+35 plus 21 is 56. 
+56 plus 70 is 126. 
+And then 126 plus 126 is 252. 
+So let me do that in a special color. 
+"There's 200, right? "
+"yeah, 252 ways from getting from there to there. "
+"And that was just a neat kind of pattern problem, to "
+understand this. 
+And you could just fill it out. 
+And you can actually do this for any n by m. 
+It doesn't even have to be n by m. 
+"You could figure out, I could have said the problem, how "
+many ways are there to get to this square? 
+And you would have solved it. 
+"Once you see that pattern, you can just do simple addition "
+and figure it out. 
+"To do it by hand, to figure out the 252 ways of getting "
+there would have taken you forever. 
+It would have wasted all of your time. 
+But there's something interesting here. 
+"If you did watch the video on binomial coefficients, you'll "
+recognize that these are the binomial coefficients. 
+Actually let me draw something for you and maybe you'll 
+recognize it there. 
+And this is all bonus relative to the problem. 
+You have now solved it. 
+"If your whole goal was just to solve this problem, and not to "
+"see how it connects to other mathematics, then you can stop "
+watching it now. 
+But now I'll show you something neat about it. 
+"So, if you wanted to figure out x plus y to the nth power. "
+And we do this a lot in the videos on Pascal's triangle 
+and binomial coefficients. 
+But I want to show you it's the same exact thing here. 
+"This might actually be even an easier way for you to do it, "
+than using Pascal's triangle. 
+Although it's essentially the same thing. 
+"If you write one, x, x, x squared, x to the third, x to "
+"the fourth, x to the fifth. "
+These are supposed to go on top of the square. 
+But I realize I was running out of space. 
+"You write one and y, y squared, y to the third, y to "
+"the fourth, y to the fifth. "
+"And if I were to say, given this, what is x plus y, I "
+"don't know, to the fourth power? "
+"So what you can do is, you say OK, well, x plus y to the "
+"fourth is going to be, you know, x to the fourth plus "
+"something, something, something, a bunch of terms, "
+"all the way to y to the fourth, and "
+everything in between. 
+"So as you go here, where you say, x to the fourth all the "
+way down to y to the fourth. 
+So it'll be this diagonal right here. 
+So let me draw this diagonal. 
+So this diagonal right here. 
+And these will essentially tell you to the coefficients. 
+And not only will it tell you the coefficients. 
+It will tell you the mix of the coefficients. 
+So what do I mean by that? 
+So let me erase some stuff here. 
+This is all bonus to the actual problem. 
+We've solved the problem. 
+So I can erase all of this. 
+So we want to figure out x plus y to the fourth. 
+All we have to do-- and I'll leave you the play with this 
+cube a little bit more just to see all the patterns in it and 
+what do the numbers do along each row and each column and 
+each diagonal? 
+"But if you want to figure out x plus y to the fourth, or "
+actually just this is x to the fourth. 
+Or you could say one x to the fourth. 
+"One x to the fourth times one, which is just one x to the "
+"fourth, plus four x to the third, times y. "
+Right? 
+That's just this one right there. 
+"Then you say, plus six x squared y squared. "
+""
+And they we're at plus four x y to the third. 
+And then finally plus one y to the fourth times 
+just a one or an x. 
+"And you might say, that's amazing Sal. "
+How did that work? 
+"And the way to think about it is, when you multiply this x "
+plus y to the fourth-- and I encourage you to try it if 
+you're bored one day --there's actually six ways to get an x 
+squared y squared term. 
+You'll see that when you multiply it all out. 
+And we did that in kind of the intuition behind the binomial 
+theorem videos. 
+"But there's six ways to get there, which is the exact same "
+problem as the brain teaser that I gave you before. 
+How many ways can you get to this square? 
+"Well, we figured out there are six ways. "
+Anyway hope that you enjoyed that a little bit. 
+""
+""
+Let's say I have a balloon 
+and in that balloon i have a bunch of particles bouncing around 
+they're gas particles 
+so they're floating freely 
+"and they all have, they each have some velocity "
+some kinetic energy 
+and what I care about 
+what I care... let me just draw a few more 
+what I care about is the pressure that is exerted 
+on the surface of the balloon 
+so I care about the pressure 
+and what's pressure? it's force per area 
+force per area 
+"so the area here, you can think of it as "
+the inside surface of the balloon 
+"and what's going to put force, "
+what's going to apply force to that? 
+"at any given moment i only drew what, 6 particles here "
+but in a real balloon you would have 
+"you know, gazillions of particles, you know "
+"we could talk about how large, but more particles "
+"than you could really, probably imagine "
+but at any given moment some of those particles 
+are bouncing off the wall of the container 
+"that particle is bouncing there, this particle "
+"is bouncing there, this guy's bouncing like that "
+"and when they bounce, they apply a force to the "
+"container, an outward force, that's what keeps "
+the balloon blown up. 
+So let's think about what the pressure 
+is going to be dependent on. 
+"So first of all the pressure, the faster these "
+"particles move, the higher the pressure, right? "
+Faster particles 
+faster particles would imply pressure would go up 
+right? slower particles you're gonna be bouncing 
+into the container less 
+and when you do bounce into the container 
+"there is going to be less of a ricochet, "
+or less of a change in momentum 
+so slower particles 
+you're gonna have pressure go down 
+now it's practically impossible to measure 
+"the kinetic energy, or the velocity "
+or the direction of each individual particle 
+as especially you have gazillions of them 
+in the balloon 
+so what we do is we think of 
+the average energy of the particles 
+and the average energy of the particles 
+"you might say oh, Sal's about to introduce us "
+to a new concept 
+"well I might, well it's a new of looking at a "
+probably very familiar concept to you 
+and that's temperature 
+temperature can and should be viewed 
+as the average energy of the particles in the system 
+so i'll put a little squiggly line 
+"cause it's, you know, there's a lot of ways to "
+think about.. Average energy 
+"or, you know... some, and mostly kinetic energy "
+right? because these particles are moving and bouncing 
+"the higher the temperature, the more "
+the faster that these particles move 
+and the more that they're going to 
+bounce into the side of the [sic]particle 
+into the side of this container 
+but temperature is average energy 
+"it tells us energy, energy per particle "
+"right, if you wanted to know the total, so you know "
+obviously if we only had one particle in there 
+with super high temperature 
+that's going to have less pressure 
+then if we have a million particles in there 
+let me draw that 
+if i have.. if i have.. 
+let's take two cases right here 
+one is: i have a bunch of particles with 
+a certain temperature 
+moving in their different directions 
+and in the other example i have one particle 
+right? 
+and maybe they have the same temperature 
+on average they have the same kinetic energy 
+the kinetic energy per particle is the same 
+cleary this one is going to be applying 
+more pressure to its container 
+cause at every given moment 
+more of these particles are gonna be bouncing 
+off the side 
+"then in this example, this guy is gonna "
+bounce —bam— and gonna go and move and bounce bam 
+so he's gonna be applying less pressure 
+even though his temperature might be the same 
+"because temperature is kinetic energy, or you "
+can view it as kinetic energy per particle 
+or it's a way of looking at kinetic energy per particle 
+so if we wanted to look at the total energy 
+"in the system, we would want to "
+multiply the temperature 
+times the number of particles 
+and just since we are dealing on the molecular scale 
+the number of particles can often be represented 
+"as moles, remeber, moles is just the number of particles "
+so we're saying that pressure 
+"pressure, is well I'll say, it's proportional "
+"so it's equal to let's say, some constant "
+let's call that R times 
+(cause we've got to make all the 
+units work out in the end 
+I mean temperature's in Kelvin 
+but we eventually want to get back to Joules 
+so let's just say it's equal to some constant 
+or it's proportional to temperature 
+times the number of particles 
+we could do that a bunch of ways 
+but let's think of that in moles 
+but if I say they're 5 mole particles there 
+you know that's 5 times 6 times 10 to the 23 particles 
+so this is a number of particles (n) 
+this is the temperature (T) 
+and this is just some constant (n) 
+"constant, right there. "
+now what else is the pressure dependent on? 
+we gave these two examples 
+obviously it's dependent on the Temperature 
+"the faster each of these particles move, "
+the higher pressure it will have 
+it's also dependent on the number of particles 
+the more particles we have 
+the more pressure we'll have 
+what about the size of the container? 
+the volume of the container? 
+"if we took this example, but we shrunk the container somehow maybe by pressing on the outside "
+"so this container looked like this, but we still had the same four particles in it "
+the same four particles with the same average 
+"kinetic energy, with the same temperature "
+"so that number of particles is the same, "
+the temperature's the same 
+but the volume has gone down 
+now these guys are gonna bump into 
+the sides of the container more frequently 
+"and there's less area, right? "
+"so at any given moment, you have more force "
+and less area 
+so when you have more force and less area 
+the pressure's gonna go up 
+so when the volume went down 
+your pressure went up 
+"so pressure is going to be, is going to be "
+"we could say, we could say "
+pressure is inversely proportional to volume 
+so let's think about that 
+let's put that into our equation 
+we said that pressure 
+"sorry, not ressure "
+"pressure is proportional, and I'm just saying "
+"some proportionality constant, let's call that R "
+to the number of particles times the temperature 
+(this gives us the total energy) 
+and it's inversely proportional to the volume 
+and so if we multiply both sides of this 
+times the Volume 
+"we get the pressure, times the volume is proportional "
+to the number of particles times the temperature 
+and then you know 
+so PV is equal to R n t 
+and just to switch this around a little bit 
+so it's in a form that you are more likely to see 
+"in your chemistry book, if we just switch "
+the n and the R term 
+you get P (pressure) times volume is equal to 
+n (the number of particles you have) 
+times some constant times temperature 
+and this right here is the ideal gas equation 
+ideal gas equation 
+and hopefully makes some sense to you 
+ideal gas (not not gass) equation 
+they say ideal gas is based on 
+this little mental exercise I did to come up with this 
+i made some implicit assumptions when I did this 
+"one is I assumed, I essentially I assumed that "
+that we are dealing with an ideal gas 
+"and so you say, what Sal, what is an ideal gas? "
+"an ideal gas, is one where the molecules "
+they're not too concerned with each other 
+they're just concerned with their own kinetic energy 
+and bouncing off of the walls 
+so they don't attract or repel each other 
+don't attract or repel.... 
+cause let's say they are attracted to each other 
+"then as you increased the number of particles, "
+maybe they'd want to not go to the side 
+maybe they'd all gravitate towards the center a little bit more 
+if they did attract each other 
+"and if they did that, they would bounce into the walls less and the pressure would be a little bit lower "
+so assuming that they don't attract or repel each other 
+and we're also assuming that the actual volume 
+of the individual particles are inconsequential 
+which is a pretty good assumption 
+because they're pretty small 
+altough if you start putting a ton of particles 
+"into a certain volume then at some point, "
+especially if they are big molecules 
+it will start to matter in terms of their size 
+but we're assuming that for the purposes of 
+our mental exercise that the molecules have 
+inconsequential volumes 
+and they don't attract or repel each other 
+and in that situation we can apply the ideal gas 
+"equation, right here. "
+Now we've established the ideal gas equation 
+"but we're like oh,oh what's R, how do I deal with it, and how do I do math problems "
+and solve chemistry problems with it 
+and how do the units all work out 
+"we'll do all of that in the next video, where i will solve a ton of equations, or a ton of exercises "
+with the ideal gas equation 
+"but the important thing, the important take away from this video "
+"is just to have the intuition, as to why this actually does make sense "
+"and frankly once you have this intuition, you should never forget it "
+you should be able to maybe even derive it on your own. 
+""
+"I want to show you a way that, at least, I find more useful to "
+subtract numbers in my head. 
+And I do it this way-- it's not necessarily faster on 
+"paper, but it allows you to remember what you're doing. "
+Because if you start borrowing and stuff it becomes very hard 
+to remember what's actually going on. 
+So let's try out a couple of problems. 
+Let's have nine thousand four hundred fifty-six minus seven thousand five hundred eighty-nine. 
+So the way I do this in my head. 
+I say that nine thousand four hundred fifty-six minus seven thousand five hundred eighty-nine-- you have to 
+remember the two numbers. 
+"So the first thing I do is I say, well, what's nine thousand four hundred fifty-six "
+minus just seven thousand? 
+That's pretty easy because I just take nine thousand minus seven thousand. 
+So what I can do is I'll cross out this and I'll 
+subtract seven thousand from it. 
+And I'm going to get two thousand four hundred fifty six. 
+So in my head I tell myself that nine thousand four hundred fifty-six minus seven thousand five hundred eighty-nine is the 
+same thing as-- if I just subtract out the seven thousand-- 
+as two thousand four hundred fifty-six minus five hundred eighty-nine. 
+I took the seven thousand out of the picture. 
+I essentially subtracted it from both of these numbers. 
+"Now, if I want to do two thousand four hundred fifty-six minus five hundred eighty-nine what I do is I "
+subtract five hundred from both of these numbers. 
+"So if I subtract five hundred from this bottom number, "
+this five will go away. 
+"And if I subtract five hundred from this top number, what happens? "
+What's two thousand four hundred fifty-six minus five hundred? 
+Or an easier way to think about it? 
+What's twenty-four minus five? 
+"Well, that's nineteen. "
+So it's going to be one thousand nine hundred fifty-six. 
+Let me scroll up a little bit. 
+So it's one thousand nine hundred fifty six. 
+So my original problem has now been reduced to one thousand nine hundred fifty-six minus eighty-nine. 
+Now I can subtract eighty from both that number and that number. 
+So if I subtract eighty from this bottom number the eight disappears. 
+Eighty-nine minus eighty is just nine. 
+"And I subtract eighty from this top number, I can just think of, "
+"well, what's one hundred ninety-five minus eight? "
+"Well, one hundred ninety-five minus eight, let's see. "
+Fifteen minus eight is seventeen. 
+So one hundred ninety-five minus eight is going to be one hundred eighty-seven and then you 
+still have the six there. 
+"So essentially I said, one thousand nine hundred fifty-six minus eighty is one thousand eight hundred seventy-six. "
+And now my problem has been reduced to one thousand eight hundred seventy-six minus nine. 
+And then we can do that in our head. 
+What's seventy-six minus nine? 
+That's what? 
+Sixty-seven. 
+So our final answer is one thousand eight hundred sixty-seven. 
+And as you can see this isn't necessarily faster than the way 
+we've done it in other videos. 
+"But the reason why I like it is that at any stage, I just "
+have to remember two numbers. 
+I have to remember my new top number and my 
+new bottom number. 
+My new bottom number is always just some of the leftover 
+digits of the original bottom number. 
+So that's how I like to do things in my head. 
+"Now, just to make sure that we got the right answer and maybe "
+to compare and contrast a little bit. 
+Let's do it the traditional way. 
+Nine thousand four hundred fifty-six minus seven thousand five hundred eighty-nine. 
+"So the standard way of doing it, I like to do all my "
+borrowing before I do any of my subtraction so that I can stay 
+"in my borrowing mode, or you can think of it as regrouping. "
+"So I look at all of my numbers on top and see, are they all "
+larger than the numbers on the bottom? 
+And I start here at the right. 
+"Six is definitely not larger than nine, so I have to borrow. "
+"So I'll borrow ten or I'll borrow one from the tens place, "
+which ends up being ten. 
+So the six becomes a sixteen and then the five becomes a four. 
+Then I go to the tens place. 
+"Four needs to be larger than eight, so let me borrow one "
+from the hundreds place. 
+So then that four becomes a fourteen or fourteen tens because 
+we're in the tens place. 
+And then this four becomes a three. 
+"Now these two columns or places look good, but right here I "
+"have a three, which is less than a five. "
+"Not cool, so I have to borrow again. "
+That three becomes a thirteen and then that nine becomes an eight. 
+And now I'm ready to subtract. 
+So you get sixteen minus nine is seven. 
+Fourteen minus eight is six. 
+Thirteen minus five is eight. 
+Eight minus seven is one. 
+"And lucky for us, we got the right answer. "
+I want to make it very clear. 
+There's no better way to do this. 
+This way is actually kind of longer and it takes up more 
+"space on your paper than this way was, but this for me, "
+is very hard to remember. 
+It's very hard for me to keep track of what I borrowed and 
+what the other number is and et cetera. 
+"But here, at any point in time, I just have to "
+remember two numbers. 
+And the two numbers get simpler every step that I 
+go through this process. 
+So this is why I think that this is a little 
+bit easier in my head. 
+"But this might be, depending on the context, easier on paper. "
+But at least here you didn't have to borrow or regroup. 
+"Well, hopefully you find that a little bit useful. "
+""
+Where we left off in the last video 
+the north has just won the Civil War. 
+"Unfortunately for Abraham Lincoln, "
+it was two months after he was assasinated; 
+but now the North was dominant and essentially 
+occupied the South. 
+And we enter a period called reconstruction 
+And reconstruction can refer to one of two things. 
+And they're somewhat related. 
+One is just the reconstruction from the war. 
+"Obviously, there was a lot of damage done "
+to both sides. 
+But it's usually refered to the actual reconstruction to the south 
+"and to some degree, kind of the reform of the south. "
+"And I'm gonna glaze over lot of details, "
+"like I did in the last video, and I might "
+ignore some major events that might have been important 
+but don't worry i'll get back to them 
+but the three big things that happened during reconstructions 
+other than the fact that the north were occupying the south 
+and essensially to a large degree suspending democracy in the south 
+and installing its own pollititions and its own law makers 
+is that the United States passed the thirteenth fourteenth and fifteenth ammendments 
+these are nown as the reconstructions ammendments. 
+and in 1865 you have the thirteenth ammendment 
+and this abolished slavery 
+ended slavery 
+we talked about the emancipation proclomation 
+and that was essentially Abraham Lincoln's exacutive orders 
+this was the speach he made but now it became an official law 
+in 1865 
+but in 1868 you have the fourteenth ammendment 
+which made everyone - ever person- born in the United States 
+a citizen and this includes the free slaves 
+so its kind of like the slaves are now free and they are also citizens 
+and in 1870 you have the fifteenth ammendment which gave all 
+free men the right to vote 
+and obviously now all men were free 
+so the right to vote 
+and I emphasize the MEN because even at this point 
+women did not have the right to vote 
+the right to vote 
+and the fourteenth ammendment also introduced the 
+"due process which i wont go into details here, "
+"but it essentially said ""look the government has to go "
+under a due process or 
+where essentially it has its its 
+subject to its own laws when determining 
+whether it can take away property from or in some 
+"way incurr, I guess, in some way infringe on rights of other people but we'll talk, we'll probably do "
+a whole video on that 
+but these were the real take aways so it really brought the 
+"former slaves, at least by law, by these ammendments on equal "
+standing. but we know that in practice that didn't happen. And you go fastforwards to 
+1877 and you essentially have the Reconstruction 
+"period formally ending, the occupation of the South formally ends and as soon "
+as the occupation of the South formally ends you essentially 
+and Democracy comes about you have a bunch of people coming to power and at this point of time the Republicans 
+"were essentially, the North and these were the people who were kind of anti-slavery and you know, Abraham "
+Lincoln was Republican and the Democrats come to power in the South and we can talk about how the different 
+perceptions of the different parties change over time but at this point as soon as the occupation ended 
+and to a large degree and you know I put Democracy in quotes because even in this period the North had essentaily 
+"not occupied it anymore but the elections--these were things that were heavily contested, you have both "
+sides of them kind of exerting force and in particular you have the Jim Crow Laws being passed in the 
+"South and they're called ""Jim Crow"" based on this parody of the early 1800s. It was a practice for white "
+men in the South at this time were even well before this in order to parody blacks they would paint their 
+face black and they would act silly and all of this. Jim Crow was the name of one of these characters 
+that was protrayed in the early 1800s--I think Jumping Jim Crow was the name--so that's where the laws 
+"come from, but the Jim Crow laws essentially segregated blacks and whites in the South and even though "
+"the idea might have been that they were equal, the reality were that the conditions for blacks--the places "
+"that they were separated to--were far inferior. They had to use separate drinking fountains, they had "
+"to use separate bathrooms, they couldn't sit in the same parts of theaters or in the same parts of buses. "
+"And these lasted all the way until the Civil Rights Movement--all the way to the 1960s. Now, at the same "
+"time that all of this was happening, you kinda had this post-war, this post-Civil War boom in the econom, "
+where you hadthis kind of massive building of the railroads and steam engines and you know...to some 
+"degree it was the First--well, I don't want to say the first, there was kind of many- there was kind "
+of many ages of mass inovation--but all of these things tend to lead to a little bit of a bubble. And 
+"then in 1873, what you have happening is a lot of the governments of the world start to go off of the "
+gold and silver standard and they go to the gold standard. And what that happens is that anyone left 
+"on the silver standard or partially both, the gold and silver standard, their currency would de-value, "
+"and back then it was known as an unbalanced negative for your currency to de-value, we can later talk "
+"about that... and so the US decides to follow and the big, the big actor here was Germany that decided "
+to go off of the silver standards and go on the pure gold standard. And so the US decided to follow suit 
+"with the Coinage Act, in 1873, but this leads to a huge--they called the Panic of 1870, theres a couple "
+"of things here. One, it completely demolishes the price of silver, although it was happening on a normal "
+basis. It hurts the silver miners and the industries associated with the silver miners--but I guess more 
+"importantly, it restricts the money supply, now I won't go into all of the economic stuff. When you restrict "
+"the money supply, you essentially increase interest rates and it essentially pops the bubble that was "
+"forming, due to the railroads and all of the booming business and then you essentially have the US entering "
+a depressionand that depression last from 1873 (when the Coinage Act and the bubble burst) all the way 
+to 1879 but lucky for the United States after that time period 
+After it recovered from the depression (at a super fast rate) in one of the fastest economic 
+growths in US history 
+You had this huge influx of immigrants 
+Tens of millions from Europe and by 1890 the United States was 
+now the richest country in the world on a per capita basis 
+which was amazing! Because only 100 years ago it was kind of this colony of Great Britain 
+or part of the British Empire 
+It was kind of this thing that the European powers did not view as having relevance to them 
+but now it was the richest country in the world 
+And then you fast forward to 1898 and it starts to essentially become 
+a bit of an empire 
+Until this time the United States kind of kept to itself it wasn't really interested in 
+controlling other nations or other people 
+But in 1898 you had this constant (Until 1898 Cuba was a Spanish colony 
+and there had been many revolts tried against the Spanish by the Cubans 
+and the United States was fairly sympathetic to the Cubans plight 
+They were another country in the New world trying to hold their own against a European power 
+and the Spanish were fairly infamous for cracking down on their subjects pretty hard 
+and so in 1898 during the revolt against the Spanish the US sent some 
+ships over to Havana harbour to essentially protect American interests 
+This might resonate a little bit to the Mexican American War where we kind of sent things close to 
+another country to protect our own interests and make sure that nothing outrageous occurs 
+While in Havana Harbour you have an American battleship called the Maine 
+That explodes and sinks 
+and this is an actual picture of it 
+This is fun because we are entering the point in history when pictures start to become relevant 
+although even in the mid eighteen sixties you had pictures 
+That's a picture of Abraham Lincoln 
+"The Maine gets sunk, the people who want to declare war on Spain "
+say Hey Spain must have blown up the Maine (although this is still a complete mystery on the actual cause; 
+"some say that it was a random explosion, some even cite conspiracies that would allow the US to justify "
+entering the war while some say that Spain did it for whatever reason 
+It did not like this American fleet in Havana Harbour) 
+Regardless to say after it happened it made the Amercian public angry 
+The American government angry and they declared a very short lived war on Spain 
+They won prettyhandedly 
+The big takeaway from the Spanish-American War is that the US essentially became and empire 
+and started to have control of othe countries 
+"Such as its temporary control of Cuba, it also (because it won) it got control of Guam which is right "
+over there 
+It still has control of Guam 
+It also got control of the Phillipines from Spain 
+and it maintained control of the Phillipines until the end of World War II 
+It also got control of Puerto Rico which is still part of the US though not as an offical state 
+it is US territory 
+At this point the US becomes an empire and then you fast forward ot 1914 war breaks out in Europe 
+I need to do a whole series fo videos on World War One 
+"But war breaks out in Europe, particularly the two strongest powers that are really at each other in "
+this time period are the British Empire and Germany 
+You have this situation where the US is trying its hardest to avoid war and sustain neutrality 
+Obviously the American people were predominantly of English decsent and were from English speaking countries 
+So there were some sympathies for the British Empire for Great Britain 
+"But they wanted to stay neutral, however what happened was that the British had a blockade of the Germans "
+They had a kind of stranglehold. The Germans wanted to have a blockade of the British 
+"As Great Britain was an island, it oculd really maybe win the war because it could somehow strangle the "
+"island, if it could blockade the island. But unfortunately for Germany "
+it did not have a navy that was as strong 
+"So you get close to 1917 actually 1915,16,17 "
+Germany starts to get desperate so it sends its submarines (U-boats) into the Atlantic 
+So they say that if we cannot blockade Great Britain we can at least start harrasing or even blowing 
+ships up that are trying to trade with Great Britain in order to create fear 
+and have the equivalent of a blockade 
+At first Germany does some minor things. 
+As the war goes on however it becomes more and more desperate 
+"and it starts to attack civilian ships, cruise liners, American starts dying becasue these "
+U-boats are just willy-nilly torpedoeing ships 
+The US doesn't tolerate this anymore and after the Zimmerman Telegram they enter the war 
+in 1917 
+Germany did not take the US that seriously at that point but they learned that they should have 
+And then you fast forward to 1918 when the US was definetly one of the major powers 
+They really turned the tide and become a large power after their involvment in the war. 
+And then you fast forward to 1918 and the war ends 
+And the real takeaway from this is that it ended some of the nations that were on the losing end 
+Austria and Hungary no longer stayed a nation 
+The Ottoman Empire was no longer a nation in this form 
+As we will learn later there were huge reparations by the victors on Germany 
+That to a large degree may have lead to World War Two 
+The other things that started to happen at this point in 1920 you have the 18th and the 19th 
+ammendments being passed 
+The 18th enacted prohibition where all of a sudden you made 
+alcohol illegal in the US. And the irony of this is that this is when you have all of these movies 
+about bootleggers and this whole crime scene that develops around illegal alcohol 
+The 19th ammendment was a little less controversial. It finally gave women the right to vote 
+And one of the arguments against women having the right to vote was 
+only men are fighting for the country and only they have the right to vote and be soldiers 
+But during World War One worldwide so many men were fighting that women had to take up the slack at a 
+domestic level and in essence they had to become a big part of the war effort in terms of 
+working in the factories and producing things 
+and so that was probably one of the things that on a global scale women started to attain the right to 
+vote. Also during this period in the 1920's you have another post-war economic boom 
+that really develops into a post-war economic bubble until 1929 
+and then you have the stock market crash and I think some of us know that after that period 
+The Great Depression Ensues 
+It was a global great depression that contiues all the way until the US enters world was II 
+""
+"When it comes to stories, probably we allgot started on fantasy, with fairy tales. "
+So what better place than that to startour course in fantasy and science fiction. 
+"Before you read Grimm's Fairy Tales, I'dlike to make a few comments to you. First "
+"of all, I'd like to recommend an addition.Now, the Grimm Brothers wrote hundreds of "
+tales. I'm not asking you to read all ofthem. What I'd like you to read is the 
+selection in the Lucy Crane translation of1886. I would like you to do that for two 
+"reasons. First of all, it's an goodcollection. It's shorter than the whole "
+collection and it has almost every talethat you have probably encountered and all 
+but one of the tales that I would like totalk with you about. The second reason 
+"that I recommend that edition, is thatit's illustrated by her husband, Walter "
+Crane. Now Walter Crane is a veryinteresting figure. He wrote the very 
+first book on why we illustrate books atall. And so if we are going to examine 
+fantasy and see how it may have peer notonly in the stories but in other domains 
+like images. This would be an ideal way togo. Now you may already have a copy of 
+"Grimm's Fairytales, If you do, I ask youto go online to project Gutenberg, take a "
+look at the HTML version of the Lucy Cranetranslation. If you want to have it 
+"online, you can read it there and it hasthe illustrations right in the text. If "
+"you don't want to read it online, you canbuy a copy or you can read other versions "
+and just read the stories that are in theone that you see online. A second reason 
+"though, even beyond the selection and thewonderful coincidence of having the "
+"husband and wife work on this booktogether, is that we are dealing here with "
+a translation. And so it will be easierfor us if we're all using the same 
+"translation. Not essential, not essentialbut easier. Now, fairy tales are in every "
+culture. They're even in our language. Ihad an idea. It was a wonderful idea. I 
+"was so excited about it and I said to myfriend, you know, I think I'm going to do. "
+"And as soon as I finis hed explaining it,my friend said, you're out of your mind. "
+That's just a fairy tale. We use the wordfairy tale in a dismissive sense as if it 
+"referred to something impossible. And yet,sometimes when two people get married, we "
+"in the audience turn to each other andsay, my goodness! It's a fairytale "
+wedding. So we use that very same term asif it's something extraordinary and 
+desirable. Fairy tales infect ourlanguage. They infect our thinking. They 
+"are in every culture, and so in a sense wemight think of them, and it turns out that "
+"this is correct, as a human universal. Theideal fairy tale, then, would be something "
+oral. Something that yourgreat-great-great-great-great-great-grandparent 
+"has passed down on to you. But, in fact,the Grimm Brothers tales were written by "
+two brothers in nineteenth centuryGermany. Who wrote them for their own 
+"reasons. What those reasons were we'lldiscuss later in this unit, but as you "
+"read Grim's Fairytales, I'd like you tothink. What's the difference between this "
+and what it might have been if it had beentruly oral? Are these really works that 
+"speak to humanity, or are these somethingquite special? And even if they are quite "
+"special, what's that underlying nuggetthat gives these fantasies the power to "
+stay in our mind forever? 
+""
+Write a polynomial to express the total value of p $20
+"bills, q $10 bills, and r $5 bills."
+So what's the value of p $20 bills?
+"Well if I have p $20 bills, the value of each of those"
+dollar bills is going to be $20.
+So the value all p of them is going to be 20p.
+"If I have one $20 bill, it's $20."
+"If I have three $20 bills, if p is 3, it's going to be $60."
+"Actually, let me do that in the same color as"
+I underlined it.
+I underlined it in yellow.
+So let me do the p $20 bills.
+So 20p is the p $20 bills.
+Then you have your q $10 bills.
+So what's the value of those?
+Well it's going to be 10q.
+"If I have one $10 bill, it's worth $10."
+"If I have ten $10 bills, if q is 10, this is going to be"
+worth 10 times 10. $100.
+"And then finally you have your r $5 bills, which are going to"
+be worth 5r dollars.
+"One $5 bill, worth $5."
+"Two $5 bills, worth $10."
+And we're done.
+We've expressed it as a polynomial.
+Polynomial just means that we have multiple terms here and
+this is three terms. We could even call it a trinomial.
+""
+"I'll even write down the word, 'picking'."
+"how many meet our constraints, satisfy this event?"
+And how many possible outcomes are there?
+"So let me write the possible outcomes right over here,"
+so possible outcomes.
+And you'll see it's actually a very straight forward idea.
+So the set of all the possible outcomes:
+that yellow marble or that yellow marble.
+There's two red marbles in the bag.
+"So I could pick that red marble, or that red marble."
+"So I could pick that green marble, or that green marble."
+And then there's one blue marble in the bag.
+"sample...the set of all the possible outcomes,"
+fancy word for just a simple idea.
+There's eight possible things that I can do.
+"So when I think of the probability of picking a yellow marble,"
+"I want to think about, well what are all the possibilities?"
+"Well, there's eight possibilities for my trial."
+"So the number of possible outcomes,"
+"you could view it as the size of the sample space,"
+look I have eight marbles.
+"And you say how many of those marbles meet my constraint,"
+that satisfy this event here?
+"Well, there's three marbles that satisfy my event."
+There's three outcomes that will allow this event to occur.
+I guess this is one way to say it.
+So there're three right over here.
+"If I say what is the probability of picking a yellow marble,"
+well how many different types of marbles can I pick?
+Well there's eight different marbles I could pick
+And then how many are yellow?
+"Well, there's three of them that are actually yellow."
+""
+"Hey, how're you doing? Justin here again, coming at you "
+this time for a D minor. 
+"Now, the other two minors were pretty easy: the A minor was "
+very similar to an E and an E minor was an E with a finger lifted off. 
+"So, D going to be really simple as well? "
+Do I get into this D minor? 
+"Unfortunately not. It's not a particularly hard chord, "
+it's not the big dreaded F chord that everyone dislikes. 
+But it requires a little bit of a kind of awkward 
+finger stretch for some people. 
+"I didn't find this one too bad, "
+I had a lot more trouble with G chord when I was learning guitar. 
+But a lot of people struggle with Dmin. 
+So I'm going to show you a couple of little variations around it as well. 
+"So, let's go to a close-up and check out this new chord. "
+"Okay, here we are, looking at the D minor. Now, doesn't look too bad, does it? "
+I know what you're thinking. You're thinking 
+"""Justin just said it was going to be a bit difficult and that "
+"doesn't look that hard"". "
+"Well, it is that hard. "
+"Now, you can see here, "
+the third finger has got to stretch 
+"and it's fingers one, two and three. "
+"Now, for a lot of people, that's a little bit difficult. "
+"I don't find it that hard now, and some people find that they angle their fingers a little bit like that, "
+"which is kind of okay, "
+"but I think you're better off trying to get it a little bit squarer on this one, for now. "
+"So what we've got here, let's start off with the usual: "
+"first finger, first string, first fret. "
+"Second finger, second fret, third string, "
+"and third finger has to move, you can see there, just the "
+"way my fingers had to go from here and then go out, "
+it's going to the third fret of the second string. 
+"And it's that third finger that causes a lot of people problems, trying to play this chord. "
+"If that's you and you really struggle with this chord, "
+the other fingering option is to use the fourth finger. 
+Which I must admit that was the way I played Dm 
+"for a long time, using fingers one, two and four. "
+It really doesn't make very much difference whether 
+"you use your third or your fourth. I prefer using my third these days, "
+mainly because I can use a little chord trick called a suspended chord. 
+In a slightly more advanced lesson. 
+"So I think fingers one, two and three are better, "
+"if you can stretch it. But if you can't, you can always go for whacking "
+the old fourth finger down there. 
+"Now, when it comes to playing it, "
+"of course if you look at the chord diagram, "
+you'll notice that you shouldn't touch the thickest two strings. 
+"So starting at the fourth string, you should do your strum "
+. . . 
+pick out the notes one at a time 
+. . . 
+"Those three should be pretty straight forward, "
+. . . 
+"It's usually this last note, the thinnest string, "
+it just sounds like this for people: 
+. . . 
+"And all again, it's the third finger lying down too much. "
+"As soon as you lift it back up a little bit, "
+. . . 
+You'll find that that's what'll give you that nice roundness 
+in your fingers and it'll allow you to get that note. 
+"Which is the note F, actually. "
+. . . 
+"Here, on your D minor chord. "
+"It is a really, really good chord, D minor, "
+"and even if it does feel a little bit stretchy, "
+"nearly everything that you do that's new, "
+that's a little bit hard is going to be stretchy. 
+And it's just a matter of getting used to it. 
+"Especially for the next stage, we've got G and C, "
+"which are again, even stretchier. "
+But one thing that can help with these chords 
+that have got a little bit of a stretch 
+is to think to rotate your hand outwards. 
+"So if you've got your hand flat like this, "
+"is to think of your thumb down toward the ground, "
+"so as you're doing it, "
+try and think that you're pushing this part of your hand 
+up toward the guitar neck a bit more. 
+That can often help with the stretch. 
+"If it's too long like this, feels a bit too, "
+"see your third finger is going to be a bit long there, "
+"so by doing that, "
+it helps curl up those fingers 
+and gets them in a good position. 
+"So, that might be something to think about there as well. "
+"So, have fun with your D minor. "
+Now we're going to try to put them together. 
+""
+What I want to do in this video is try to understand how
+two proteins can interact with each other in conjunction with
+ATP to actually produce mechanical motion.
+"And the reason why I want to do this-- one, it occurs"
+"outside of muscle cells as well, but this is really going"
+to be the first video on really how muscles work.
+And then we'll talk about how nerves actually stimulate
+muscles to work.
+So it'll all build up from this video.
+So what I've done here is I've copy and pasted two images of
+proteins from Wikipedia.
+This is myosin.
+They're interwound around each other so you can see it's this
+"very complex looking protein or enzyme, however you want to"
+I'll tell you why it's called an enzyme-- because it
+actually helps react ATP into ADP and phosphate groups.
+So that's why it's called an ATPase.
+It's a subclass of the ATPase enzymes.
+This right here is actin.
+What we're going to see in this video is how myosin
+essentially uses the ATP to essentially crawl along.
+You can almost view it as an actin rope and that's what
+So let me draw it.
+I'll actually draw it on this actin right here.
+So let's say we have one of these myosin heads.
+"So when I say a myosin head, this is one of the myosin"
+"heads right here and then it's connected, it's interwound,"
+it's woven around.
+This is the other one and it winds around that way.
+Now let's just say we're just dealing with one
+of the myosin heads.
+Let's say it's in this position.
+Let me see how well I can draw it.
+Let's say it starts off in a position that looks like that
+and then this is kind of the tail part that connects to
+some other structural and we'll talk about that in more
+"detail, but this is my myosin head right there in its"
+"starting position, not doing anything."
+"Now, ATP can come along and bond to this myosin head, this"
+"enzyme, this protein, this ATPase enzyme."
+So let me draw some ATP.
+So ATP comes along and bonds to this guy right here.
+Let's say that's the-- and it's not going to be this big
+"relative to the protein, but this is just to"
+give you the idea.
+So soon as the ATP binds to its appropriate site on this
+"enzyme or protein, the enzyme, it detaches from the actin."
+So let me write this down.
+"So one, ATP binds to myosin head and as soon as that"
+"happens, that causes the myosin to release actin."
+So that's step one.
+"So I start it off with this guy just touching the actin,"
+"the ATP comes, and it gets released."
+"So in the next step-- so after that step, it's going to look"
+something like this-- and I want to draw
+it in the same place.
+"After the next step, it's going to look"
+something like this.
+It will have released.
+attached to it still.
+I know it might be a little bit convoluted when I keep
+"writing over the same thing, but you have the"
+ATP attached to it.
+"Now the next step-- the ATP hydrolizes, the phosphate gets"
+pulled off of it.
+This is an ATPase enzyme.
+That's what it does.
+Let me write that down.
+this myosin protein into kind of a high energy state.
+So let me do step two.
+This thing-- it gets hydrolized.
+We know that ATP is the energy currency of biological
+systems. So it releases energy.
+"I'm drawing it as a little spark or explosion, but you"
+can really imagine it's changing the confirmation of--
+it kind of spring-loads this protein right here to go into
+a state so it's ready to crawl along the myosin.
+"So in step two-- plus energy, energy and then this-- you can"
+enzyme to high energy.
+"You can imagine it winds the spring, or loads the spring."
+So step two-- what happens is the phosphate group gets--
+"they're still attached, but it gets detached from"
+the rest of the ATP.
+So that becomes ADP and that energy changes the
+confirmation so that this protein now goes into a
+position that looks like this.
+So this is where we end up at the end of step two.
+Let me make sure I do it right.
+something like this.
+something like this.
+This is in its cocked position.
+It has a lot of energy right now.
+It's wound up in this position.
+You still have your ADP.
+You still have your-- that's your adenosine and let's say
+you have your two phosphate groups on the ADP and you
+still have one phosphate group right there.
+"Now, when that phosphate group releases-- so let me write"
+this as step three.
+"Remember, when we started, we were just sitting here."
+"The ATP binds on step one-- actually, it does definitely"
+"bind, at the end of step one, that causes the myosin protein"
+to get released.
+"Then after step one, we naturally have step two."
+The ATP hydrolyzes into ADP phosphate.
+That releases energy and that allows the myosin protein to
+get cocked into this high energy position and kind of
+"attach, you can think of it, to the next rung"
+Now we're in a high energy state.
+"In step three, the phosphate releases."
+The phosphate is released from myosin in step three.
+That's a phosphate group being released.
+"And what this does is, this releases that energy of that"
+to push on the actin.
+"This is the power stroke, if you imagine in an engine."
+This is what's causing the mechanical movement.
+"So when the phosphate group is actually released-- remember,"
+the original release is when you take
+ATP to ADP in a phosphate.
+That put it in this spring-loaded position.
+So you could view this as the power stroke.
+We're actually creating mechanical energy.
+So depending on which one you want to view as fixed-- if you
+"view the actin as fixed, whatever myosin is attached to"
+it would move to the left.
+"If you imagine the myosin being fixed, the actin and"
+"whatever it's attached to would move to the right,"
+either way.
+But this is where we fundamentally
+get the muscle action.
+And then step four-- you have the ADP released.
+"one, except we're just one rung further to the left on"
+the actin molecule.
+"So to me, this is pretty amazing."
+We actually are seeing how ATP energy can be used to-- we're
+going from chemical energy or bond energy in ATP to
+"For me, that's amazing because when I first learned about"
+"ATP-- people say, you use ATP to do everything in your cells"
+and contract muscles.
+"Well, gee, how do you go from bond energy to actually"
+"contracting things, to actually doing what we see in"
+our everyday world as mechanical energy?
+And this is really where it all occurs.
+This is really the core issue that's going on here.
+"And you have to say, well, gee, how this thing change"
+shape and all that?
+"And you have to remember, these proteins, based on"
+what's bonded to it and what's not bonded to
+"it, they change shape."
+"And some of those shapes take more energy to attain, and"
+"then if you do the right things, that energy can be"
+released and then it can push another protein.
+But I find this just fascinating.
+And now we can build up from this actin and myosin
+interactions to understand how muscles actually work.
+""
+""
