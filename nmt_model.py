@@ -340,6 +340,11 @@ class NMT(nn.Module):
         # Tensor Squeeze:
         # https://pytorch.org/docs/stable/torch.html#torch.squeeze
 
+        dec_hidden, dec_cell = self.decoder(Ybar_t, dec_state)
+        dec_state = (dec_hidden, dec_cell)
+
+        e_t = torch.bmm(enc_hiddens_proj, dec_hidden.unsqueeze(2)).squeeze(2) # b,s
+
         # END YOUR CODE
 
         # Set e_t to -inf where enc_masks has 1
@@ -374,6 +379,14 @@ class NMT(nn.Module):
         # https://pytorch.org/docs/stable/torch.html#torch.cat
         # Tanh:
         # https://pytorch.org/docs/stable/torch.html#torch.tanh
+        softmax = nn.Softmax(dim=-1)
+        alpha_t = softmax(e_t) # b,s enc_hiddens is b,s,2h
+
+        a_t = torch.bmm(alpha_t.unsqueeze(1), enc_hiddens).squeeze(1)
+
+        U_t = torch.cat((dec_hidden, a_t), dim=1)
+        V_t = self.combined_output_projection(U_t)
+        O_t = self.dropout(torch.tanh(V_t))
 
         # END YOUR CODE
 
